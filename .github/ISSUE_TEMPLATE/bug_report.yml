@@ -1,0 +1,46 @@
+name: Bug report
+description: Report a reproducible public-facing AntiLink problem
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include tokens, passwords, webhook URLs, private IDs, or security vulnerabilities.
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Affected surface
+      options:
+        - Discord bot
+        - Dashboard
+        - Website
+        - Documentation
+        - Status page
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Remove all sensitive and identifying information.
+    validations:
+      required: true
+  - type: input
+    id: time
+    attributes:
+      label: Approximate occurrence time
+      description: Include your timezone.
