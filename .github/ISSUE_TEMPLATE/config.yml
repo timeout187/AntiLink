@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: AntiLink support
+    url: https://support.antil.ink
+    about: Get setup, account, billing, or private server assistance.
+  - name: Security report
+    url: https://support.antil.ink
+    about: Report vulnerabilities privately. Do not create a public issue.
+  - name: Service status
+    url: https://status.antil.ink
+    about: Check current uptime, incidents, and maintenance.
