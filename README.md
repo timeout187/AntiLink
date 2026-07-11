@@ -27,6 +27,9 @@ moderation visibility, public documentation, and service status reporting.
 - Moderation logs, appeals, and security audit visibility
 - Emergency Lockdown, Scam Guard, Honeypot, and Member Defense
 - Verification, Anti-Nuke, and Server Backup tools
+- AI Chat: a natural-language security assistant that checks links, explains your
+  configuration, and can propose admin-approved changes (AntiLink Premium)
+- Weekly AI Security Digest: an automatic weekly recap of your server's protection
 - Dashboard management through Discord OAuth
 - Bot and dashboard localization across 14 languages
 - Public status reporting and incident history

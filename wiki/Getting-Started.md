@@ -6,6 +6,8 @@
 4. Review the protection options.
 5. Open the [dashboard](https://dashboard.antil.ink) for browser-based control.
 6. Use `/checklink` when you want a reputation check for a URL or domain.
+7. On AntiLink Premium, run `/ai` to set up AI Chat - a natural-language security
+   assistant, with an optional Weekly Security Digest posted to a channel you choose.
 
 You need appropriate Discord server permissions to configure AntiLink.
 
