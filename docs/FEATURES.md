@@ -25,6 +25,18 @@ enforce server policy, give moderators visibility, and provide recovery tools.
 Availability varies by plan and server configuration. Review the
 [current plan comparison](https://antil.ink/premium) for details.
 
+## AI assistant
+
+- AI Chat: a natural-language security assistant in a channel (AntiLink Premium)
+- General-purpose assistant plus deep AntiLink and server-security knowledge
+- Live tools: on-demand link reputation checks, recent-block lookups, and whitelist checks
+- Admin-approved changes: the AI can propose protection toggles and whitelist edits, but a
+  Manage Server admin must approve - it never applies anything on its own
+- Weekly AI Security Digest: an opt-in weekly security recap with an AI-written summary
+
+The AI is a read-only advisor and never moderates on its own. See the
+[AI Chat documentation](https://docs.antil.ink) for details.
+
 ## Dashboard and visibility
 
 - Discord OAuth authentication

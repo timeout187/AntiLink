@@ -17,6 +17,8 @@ The public AntiLink command set includes:
 - `/verify`
 - `/antinuke`
 - `/backup`
+- `/ai`
+- `/chat`
 
 Commands have different Discord permission and AntiLink plan requirements.
 Some security modules are disabled by default and must be configured by a

@@ -3,7 +3,8 @@
 Welcome to the public AntiLink Wiki.
 
 AntiLink is a Discord Server Security Center for link protection, threat
-visibility, server defense, verification, and recovery.
+visibility, server defense, verification, recovery, and a natural-language AI
+security assistant.
 
 ## Quick links
 
