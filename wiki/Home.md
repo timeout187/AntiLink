@@ -4,7 +4,7 @@ Welcome to the public AntiLink Wiki.
 
 AntiLink is a Discord Server Security Center for link protection, threat
 visibility, server defense, verification, recovery, and a natural-language AI
-security assistant.
+security assistant. The bot and the websites are available in 24 languages.
 
 ## Quick links
 
@@ -17,9 +17,15 @@ security assistant.
 
 ## Wiki pages
 
-- [[Getting Started]]
-- [[Plans]]
-- [[Public Links]]
+- [[Getting Started]] - add the bot and run your first configuration.
+- [[Plans]] - the three server plans: AntiLink Basic, AntiLink Plus, and
+  AntiLink Premium.
+- [[Security Suite]] - the protection, defense, verification, logging, and
+  recovery modules.
+- [[AI Membership]] - the separate, user-owned membership that powers the AI
+  security assistant. The assistant proposes; a person with the matching
+  Discord permission approves.
+- [[Public Links]] - every official AntiLink address in one place.
 
 For detailed configuration guidance, use the
 [official AntiLink documentation](https://docs.antil.ink).
